@@ -23,3 +23,19 @@ Additional Resources:
 ==========
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
+
+My Project Setup:
+----------
+----------
+Download JDK:
+https://adoptium.net/download/
+
+Download & Install IDE:
+https://www.jetbrains.com/idea/download/
+
+Neoforge Documentation:
+https://docs.neoforged.net/docs/gettingstarted/
+
+Actual Project Starting Point:
+https://github.com/NeoForgeMDKs/MDK-1.21-ModDevGradle
+
